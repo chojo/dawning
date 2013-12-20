@@ -27,6 +27,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'bootstrap-sass', "~> 3.0.2.0"
 gem "font-awesome-sass"
 
+gem "bower-rails", "~> 0.6.0"
+
+
 group :development do
   gem 'thin'
   gem 'pry-rails'
