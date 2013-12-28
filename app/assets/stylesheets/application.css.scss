@@ -1,6 +1,7 @@
 @import "main_variables";
 @import "bootstrap_custom/override";
-@import "font-awesome";
+
+@import "font-awesome/scss/font-awesome.scss";
 
 @import "mixins";
 @import "main";
