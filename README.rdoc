@@ -8,6 +8,10 @@ A game about emergence
 
 * MongoDB[http://www.mongodb.org/] ~> 2.0.4
 
+* Node[http://nodejs.org] ~> 0.10.24
+
+* Bower[http://bower.io/] ~> 1.2.8
+
 == Code
 
 https://github.com/grrrisu/dawning
