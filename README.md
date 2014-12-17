@@ -28,6 +28,13 @@ https://github.com/grrrisu/dawning
 * Sugar via vendor
 * Angular via vendor
 
+### Installation
+Issues:
+* Command 'qmake -spec linux-g++ ' not available
+Solution: Install QT Library
+* Ubuntu: sudo apt-get install libqt4-dev
+* Debian: sudo apt-get install qt5-default libqt5webkit5-dev
+
 Credits
 --
 
